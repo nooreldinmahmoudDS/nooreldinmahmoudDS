@@ -15,7 +15,7 @@ Data Analyst with a B.Sc. in Artificial Intelligence & Data Science (ERU, expect
 | Area | Tools |
 |------|-------|
 | Languages | Python, SQL (MySQL) |
-| Analysis & ML | Pandas, NumPy, Scikit-learn, XGBoost, SHAP |
+| Analysis & ML | Pandas, NumPy, Scikit-learn |
 | Visualization | Matplotlib, Seaborn, Power BI, Excel |
 | Environment | Jupyter Notebook, Git, GitHub |
 
