@@ -47,7 +47,7 @@ Worked across the full data pipeline: data collection, cleaning, analysis, and r
 ## Education
 
 **B.Sc. Artificial Intelligence — Data Science Track**  
-Egyptian Russian University (ERU) · GPA 3.3 / 4.0 · Expected 2026–2027
+Egyptian Russian University (ERU) · Expected 2026–2027
 
 ---
 
